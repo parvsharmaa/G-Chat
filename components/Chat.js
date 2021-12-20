@@ -5,6 +5,7 @@ import { auth, db } from "../firebase";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { useCollection } from "react-firebase-hooks/firestore";
 import { useRouter } from "next/router";
+import React from "react";
 
 function Chat({ id, users }) {
   const router = useRouter();
