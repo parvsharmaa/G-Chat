@@ -1,3 +1,7 @@
+## Deployed on https://g-chat-parvsharmaa.vercel.app/
+   https://g-chat-git-main-parvsharmaa.vercel.app/      
+   https://g-chat-opal.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
